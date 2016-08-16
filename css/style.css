@@ -1540,7 +1540,7 @@ ol.ff-roboto-cn li, ul.ff-roboto-cn li{
 
 .footer{
 	width: 100%;
-	text-align: center;
+	text-align: right;
 	margin-top: 100px;
 	padding: 40px 0 20px;
 }
@@ -1555,7 +1555,7 @@ ol.ff-roboto-cn li, ul.ff-roboto-cn li{
 }
 
 .social-links a:hover{
-	color: rgba(0, 0, 0, 0.5);
+	color: rgba(1, 1, 1, 1);
 }
 
 
